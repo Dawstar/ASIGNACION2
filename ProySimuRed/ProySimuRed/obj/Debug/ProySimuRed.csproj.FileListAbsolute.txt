@@ -1,0 +1,7 @@
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\obj\Debug\ProySimuRed.csproj.AssemblyReference.cache
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\obj\Debug\ProySimuRed.csproj.CoreCompileInputs.cache
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\bin\Debug\ProySimuRed.exe.config
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\bin\Debug\ProySimuRed.exe
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\bin\Debug\ProySimuRed.pdb
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\obj\Debug\ProySimuRed.exe
+C:\Users\D.H.Z\source\repos\ProySimuRed\ProySimuRed\obj\Debug\ProySimuRed.pdb
